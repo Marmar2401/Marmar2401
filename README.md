@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning more coding in different programming languages to start my career in computer science
 
-- 🌱 I’m currently learning HTML & HTML5
+- 🌱 I’m currently learning HTML5, CSS & JavaScript
 
 - 💞️ I’m looking to collaborate on anything to gain experience 
 
